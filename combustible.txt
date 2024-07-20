@@ -1,0 +1,43 @@
+Crear una cápsula de combustible líquido de alta calidad encapsulada en una matriz lipídica requiere una mezcla cuidadosamente formulada que reaccione de inmediato al contacto con agua, generando la cápsula deseada. A continuación se detalla una posible composición de la mezcla y el proceso:
+
+Componentes de la Mezcla
+Agente Reactivo para Generar Gas (Hidrógeno u Oxígeno)
+
+Borohidruro de sodio (NaBH₄): Produce hidrógeno al reaccionar con agua.
+Peróxido de bario (BaO₂): Produce oxígeno al reaccionar con agua.
+Lípidos para la Formación de la Cápsula
+
+Fosfatidilcolina: Un fosfolípido que forma vesículas lipídicas.
+Triglicéridos de cadena media (MCT): Mejoran la estabilidad de la cápsula.
+Cera para el Recubrimiento Externo
+
+Cera de abeja: Utilizada para formar una capa externa protectora y estable.
+Cera de carnauba: Opción alternativa para una cobertura resistente.
+Agentes Estabilizantes y Aditivos (Opcionales)
+
+Goma xantana: Puede ayudar a estabilizar la suspensión.
+Antioxidantes: Para prevenir la oxidación de los lípidos.
+Procedimiento
+Preparación de la Solución Lipídica
+
+Disolver fosfatidilcolina y triglicéridos de cadena media en un solvente orgánico, como el cloroformo.
+Evaporar el solvente para formar una película de lípidos en el fondo del recipiente.
+Rehidratar con una solución acuosa fría para formar una suspensión lipídica.
+Preparación del Agente Reactivo
+
+Mezclar borohidruro de sodio o peróxido de bario con una pequeña cantidad de estabilizante (como goma xantana) para formar una mezcla homogénea.
+Reacción y Formación de la Cápsula
+
+Al verter una cucharada de la mezcla en agua, el agente reactivo generará rápidamente hidrógeno u oxígeno gaseoso.
+La formación de burbujas de gas estará rodeada de lípidos, formando cápsulas.
+La reacción exotérmica y la agitación rápida permitirán que los lípidos formen una cubierta alrededor del gas.
+Recubrimiento con Cera
+
+Las cápsulas formadas pueden ser recubiertas con una fina capa de cera de abeja o cera de carnauba para proporcionar estabilidad y resistencia.
+Este paso puede realizarse sumergiendo las cápsulas en una solución caliente de cera y luego enfriándolas rápidamente.
+Consideraciones de Seguridad
+Equipo de Protección Personal: Usar guantes, gafas de seguridad y trabajar en una campana extractora.
+Manejo de Compuestos Reactivos: Manipular borohidruro de sodio y peróxido de bario con extremo cuidado debido a su reactividad.
+Medidas de Control: Tener equipos de emergencia y materiales absorbentes para derrames disponibles.
+Conclusión
+La mezcla propuesta consta de un agente reactivo que genera gas, lípidos para formar la cápsula y cera para el recubrimiento externo. Al entrar en contacto con agua, esta mezcla debe generar rápidamente cápsulas llenas de gas, adecuadas para proporcionar energía a un organismo vivo. Este proceso requiere un entorno controlado y la supervisión de profesionales para asegurar su seguridad y eficacia
